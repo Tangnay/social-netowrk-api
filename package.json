@@ -1,0 +1,25 @@
+{
+  "name": "social-netowrk-api",
+  "version": "1.0.0",
+  "description": "Social Network API using Express, mongoDB and mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tangnay/social-netowrk-api.git"
+  },
+  "author": "Tangnay Ou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tangnay/social-netowrk-api/issues"
+  },
+  "homepage": "https://github.com/Tangnay/social-netowrk-api#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.0",
+    "mongoose": "^5.10.7"
+  }
+}
